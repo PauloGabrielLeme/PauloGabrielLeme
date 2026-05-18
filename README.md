@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there, I'm Paulo Gabriel, I'm a Computer Science student that's interested in backend development and Linux.
 
 <!--
 **PauloGabrielLeme/PauloGabrielLeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Languages & Tools
+![Rust]((https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
